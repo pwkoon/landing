@@ -1,0 +1,10 @@
+.banner {
+  background-position: center;
+  background-size: cover;
+  padding: 100px 0;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}

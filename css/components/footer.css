@@ -1,0 +1,25 @@
+.footer {
+  background-color: rgb(62, 53, 53);
+  text-align: center;
+  padding: 60px;
+}
+
+
+.fab {
+  font-size: 20px;
+  color: rgb(238, 234, 234);
+}
+
+.fab:hover {
+  color: aquamarine;
+}
+
+.links p {
+  font-size: 15px;
+  color: white;
+}
+
+.links p i {
+  color: rgb(175, 41, 41);
+  text-shadow: 1px 1px 1px white;
+}
